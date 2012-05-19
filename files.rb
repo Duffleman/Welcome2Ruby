@@ -22,7 +22,7 @@ emptyfile.truncate(emptyfile.size)
 # Part 3: Writing
 puts "I feel kinda guilty we deleted those poor characters."
 puts "We can add more text to the file! Yay creation!"
-puts "Oh, and for some random reason, the tutorial has just informed me we can use semi-colons as line ends/breaks"
+puts "Oh, and for some random reason, the tutorial has just informed me we can use semi-colons as line ends/breaks";
 line1 = "Yay :D I'm a text file!"
 line2 = "Being text in a text file is awesome!"
 line3 = "We sit around day-dreaming about Iron Man :P"
