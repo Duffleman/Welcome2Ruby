@@ -1,6 +1,5 @@
 # YAY :D Files! This should be interesting!
 
-
 # Part 1: Reading
 filename = "docs/howdy.txt"
 # File appears to be part of the standard library.
