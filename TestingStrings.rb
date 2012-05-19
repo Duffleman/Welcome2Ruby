@@ -29,3 +29,7 @@ puts "You are 6'2\" tall!"
 
 # Again, like PHP
 puts "\tTabs are awesome."
+
+if astring.include? "hope"
+  puts "We all have hope though, can't be too bad!"
+end
