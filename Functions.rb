@@ -25,7 +25,7 @@ insane_math(1 + 3 + 5, 2 + 4 + 3)
 # Return functions; 2 ways of doing them; the last evaluated statement is returned or use the "return" keyword.
 def add_stuff(arg1, arg2)
   puts "Adding: %i and %i" % [arg1, arg2]
-  return arg1 + arg2
+  arg1 + arg2
 end
 
 num = add_stuff(5, 5)
